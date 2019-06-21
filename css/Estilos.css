@@ -1,5 +1,9 @@
 body{
+<<<<<<< HEAD
     color: blue;
+=======
+    color: rgb(19, 122, 122);
+>>>>>>> cabecera
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -7,16 +11,48 @@ body{
     padding: 0;
 }
 
+<<<<<<< HEAD
+=======
+#cabecera
+{ 
+background: #33A;   
+box-shadow: 0px 2px 20px rgba(0,0, 0, 75);
+ color: white;
+ font-weight: bold;
+ margin: 0;
+ padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+>>>>>>> cabecera
 #container 
 {
     width: 70%;
     padding: 1em;
     text-align: left;
+<<<<<<< HEAD
     border: 1px solid #666666;
+=======
+    border: 1px solid #dddddd;
+>>>>>>> cabecera
     margin: 0 auto;
 }
 
 container h1 
 {
 font-size: 20%;
+<<<<<<< HEAD
+=======
+}
+
+#post
+{
+    padding: 1em;
+>>>>>>> cabecera
 }
